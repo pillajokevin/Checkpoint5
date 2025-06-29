@@ -315,15 +315,15 @@ de Python.
 
 Instalacion de un paquete :
 
--pip install nombre_paquete # Esto intala el paquete
+- pip install nombre_paquete # Esto intala el paquete
 
 Ademas con pip puedes actualizar un paquete:
 
--pip install --upgrade nombre_paquete
+- pip install --upgrade nombre_paquete
 
 Desinstalar un paquete : 
 
--pip uninstall nombre_paquete 
+- pip uninstall nombre_paquete 
 
 Listar los paquetes instalados:
 
